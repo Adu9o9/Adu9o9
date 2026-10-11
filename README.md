@@ -14,7 +14,7 @@
 > CS Engineering student based in Ernakulam.<br>
 > Deeply interested in backend architecture, cloud infrastructure (AWS), and multi-agent AI systems.
 
-I enjoy building highly available REST APIs and autonomous AI pipelines. When I'm not coding, I'm usually exploring new tech or working out and learning new languages].
+I enjoy building highly available REST APIs and autonomous AI pipelines. When I'm not coding, I'm usually exploring new tech or working out and learning new languages.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
